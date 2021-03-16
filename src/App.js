@@ -16,6 +16,8 @@ const Content = (props) => {
   )
 }
 
+//test test git in webstorm
+
 const Total = (props) => {
   let sum = 0
   props.course.parts.forEach(part => {
